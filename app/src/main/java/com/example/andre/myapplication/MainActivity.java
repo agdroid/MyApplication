@@ -15,4 +15,10 @@ public class MainActivity extends AppCompatActivity {
         int i = 6;
         i = i + 4;
     }
+
+    private void test2() {
+        int i2 = 5;
+        int i3 = i2 + 3;
+
+    }
 }
