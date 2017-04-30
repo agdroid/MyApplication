@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Test github</string>
+    <string name="edit_message">Nachricht eingeben</string>
+    <string name="btn_send">Senden</string>
 </resources>
