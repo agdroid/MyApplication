@@ -32,7 +32,6 @@ public class MainActivity extends AppCompatActivity {
     private void test2() {
         int i2 = 5;
         int i3 = i2 + 3;
-
     }
 
     private void test3() {
